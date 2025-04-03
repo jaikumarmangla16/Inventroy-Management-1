@@ -81,7 +81,7 @@ To set up the MySQL Connector include path, modify the c_cpp_properties.json fil
 
 2. Library Path Configuration
 Configure the library path in the tasks.json file in VS Code:
-{
+```{
     "version": "2.0.0",
     "tasks": [
         {
@@ -105,7 +105,7 @@ Configure the library path in the tasks.json file in VS Code:
             "detail": "Generated task by VS Code"
         }
     ]
-}
+}```
 
 💡 Common Issues and Solutions
 Issue 1: g++: 'mysql.h' Not Found
