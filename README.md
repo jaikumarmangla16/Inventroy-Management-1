@@ -1,5 +1,6 @@
 Inventory Management System with MySQL (C++)
 
+
 Welcome to the **Inventory Management System** project! This application integrates with a **MySQL database** to manage an inventory system where you can **add, view, search, and delete products**. Built using **C++**, it connects to MySQL for persistent data storage.
 ---
 🛠️ Prerequisites
