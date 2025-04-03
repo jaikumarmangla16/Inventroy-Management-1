@@ -130,6 +130,7 @@ CREATE TABLE products (
     quantity INT NOT NULL,
     price DOUBLE NOT NULL
 );`
+
 Issue 4: Failed to Connect to MySQL Database
 Solution: Ensure MySQL is installed and running.
 Verify your MySQL username and password are correct in the C++ code.
